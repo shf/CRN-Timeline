@@ -1,4 +1,4 @@
-@import '../../../../../codyhouse-framework/main/assets/css/style.scss'; // ⚠️ make sure to import the CodyHouse framework
+@import '/mnt/c/Users/shayanfa/Desktop/timeline/codyhouse-framework/main/assets/css/style.scss'; // ⚠️ make sure to import the CodyHouse framework
 @import url('https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700'); // custom font
 
 // -------------------------------------------------
@@ -12,9 +12,6 @@
   @include defineColorHSL(--cd-color-1, 206, 21%, 24%); // Navy
   @include defineColorHSL(--cd-color-2, 205, 38%, 89%); // Blue
   @include defineColorHSL(--cd-color-3, 207, 10%, 55%); // Grey
-  @include defineColorHSL(--cd-color-4, 111, 51%, 60%); // Green
-  @include defineColorHSL(--cd-color-5, 356, 53%, 49%); // Red
-  @include defineColorHSL(--cd-color-6, 47, 85%, 61%);  // Yellow
 
   // header
   --cd-header-height: 200px;
@@ -125,16 +122,48 @@
   }
 }
 
-.cd-timeline__img--picture {
-  background-color: var(--cd-color-4);
+.cd-timeline__img--1 {
+  background-color: #800000;
 }
 
-.cd-timeline__img--movie {
-  background-color: var(--cd-color-5);
+.cd-timeline__img--2 {
+  background-color: #e6194b;
 }
 
-.cd-timeline__img--location {
-  background-color: var(--cd-color-6);
+.cd-timeline__img--3 {
+  background-color: #9a6324;
+}
+
+.cd-timeline__img--4 {
+  background-color: #f58231;
+}
+
+.cd-timeline__img--5 {
+  background-color: #3cb44b;
+}
+
+.cd-timeline__img--6 {
+  background-color: #42d4f4;
+}
+
+.cd-timeline__img--7 {
+  background-color: #4363d8;
+}
+
+.cd-timeline__img--8 {
+  background-color: #911eb4;
+}
+
+.cd-timeline__img--9 {
+  background-color: #808000;
+}
+
+.cd-timeline__img--10 {
+  background-color: #469990;
+}
+
+.cd-timeline__img--11 {
+  background-color: #000075;
 }
 
 .cd-timeline__content {
