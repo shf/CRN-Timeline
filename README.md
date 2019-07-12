@@ -1,17 +1,7 @@
-# Responsive Vertical Timeline
+# Responsive Timeline of projects at CRN
 
-An easy to customize, responsive timeline.
-
-[Article on CodyHouse](https://codyhouse.co/gem/vertical-timeline)
-
-[Demo](https://codyhouse.co/demo/vertical-timeline)
- 
-[License](https://codyhouse.co/license)
+[Group Website](https://crn.ubc.ca/)
 
 ## Dependencies
 
-This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
-
-## Credits
-
-Icons: [Nucleo Library](https://nucleoapp.com/)
+This timeline is built upon the experiment by the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
